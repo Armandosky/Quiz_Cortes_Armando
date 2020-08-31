@@ -1,0 +1,46 @@
+C:\Users\ADMIN\source\repos\Xdxd\bin\Debug\netcoreapp3.1\Xdxd.exe
+C:\Users\ADMIN\source\repos\Xdxd\bin\Debug\netcoreapp3.1\Xdxd.deps.json
+C:\Users\ADMIN\source\repos\Xdxd\bin\Debug\netcoreapp3.1\Xdxd.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Xdxd\bin\Debug\netcoreapp3.1\Xdxd.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\Xdxd\bin\Debug\netcoreapp3.1\Xdxd.dll
+C:\Users\ADMIN\source\repos\Xdxd\bin\Debug\netcoreapp3.1\Xdxd.pdb
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\Xdxd.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\Xdxd_MarkupCompile.cache
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\Xdxd_MarkupCompile.lref
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\Login.baml
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\Xdxd.g.resources
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\Xdxd.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\Xdxd.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\Xdxd.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\Xdxd.dll
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\Xdxd.pdb
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\Xdxd.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\Home.g.cs
+C:\Users\ADMIN\source\repos\Xdxd\obj\Debug\netcoreapp3.1\Home.baml
+C:\Visual Studio\Xdxd\bin\Debug\netcoreapp3.1\Xdxd.exe
+C:\Visual Studio\Xdxd\bin\Debug\netcoreapp3.1\Xdxd.deps.json
+C:\Visual Studio\Xdxd\bin\Debug\netcoreapp3.1\Xdxd.runtimeconfig.json
+C:\Visual Studio\Xdxd\bin\Debug\netcoreapp3.1\Xdxd.runtimeconfig.dev.json
+C:\Visual Studio\Xdxd\bin\Debug\netcoreapp3.1\Xdxd.dll
+C:\Visual Studio\Xdxd\bin\Debug\netcoreapp3.1\Xdxd.pdb
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\Xdxd.csprojAssemblyReference.cache
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\Home.g.cs
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\Login.g.cs
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\Xdxd_MarkupCompile.cache
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\Xdxd_MarkupCompile.lref
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\Home.baml
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\Login.baml
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\Xdxd.g.resources
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\Xdxd.AssemblyInfoInputs.cache
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\Xdxd.AssemblyInfo.cs
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\Xdxd.csproj.CoreCompileInputs.cache
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\Xdxd.dll
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\Xdxd.pdb
+C:\Visual Studio\Xdxd\obj\Debug\netcoreapp3.1\Xdxd.genruntimeconfig.cache
